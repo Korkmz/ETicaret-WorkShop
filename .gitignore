@@ -232,3 +232,5 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+.vs/ETicaretUygulamasi/v17/.suo
+.vs/ETicaretUygulamasi/DesignTimeBuild/.dtbcache.v2
